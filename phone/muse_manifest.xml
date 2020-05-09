@@ -1,0 +1,141 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pcmasterservice.github.io" resolutions="1x" timestamp="1589038702418">
+  <folder name="css">
+    <file name="site_global.css" crc="252459865"/>
+    <file name="master_______-a.css" crc="3932170257" ref="index:contact:price:partnerpc:about:otziv"/>
+    <file name="nomq_preview_master_______-a.css" crc="451735732" ref="index:contact:price:partnerpc:about:otziv"/>
+    <file name="index.css" crc="518847049" ref="index"/>
+    <file name="nomq_index.css" crc="136274361" ref="index"/>
+    <file name="contact.css" crc="3844733283" ref="contact"/>
+    <file name="nomq_contact.css" crc="210072957" ref="contact"/>
+    <file name="price.css" crc="4156563074" ref="price"/>
+    <file name="nomq_price.css" crc="3828812257" ref="price"/>
+    <file name="partnerpc.css" crc="75273618" ref="partnerpc"/>
+    <file name="nomq_partnerpc.css" crc="3868385613" ref="partnerpc"/>
+    <file name="about.css" crc="427315976" ref="about"/>
+    <file name="nomq_about.css" crc="73296559" ref="about"/>
+    <file name="otziv.css" crc="257751401" ref="otziv"/>
+    <file name="nomq_otziv.css" crc="206601659" ref="otziv"/>
+    <file name="iefonts_otziv.css" crc="358835901" ref="otziv"/>
+  </folder>
+  <folder name="assets">
+    <file name="water.webm" crc="3941411013" seo="true" mt="1411835784000"/>
+    <file name="water.jpg" crc="149751494" seo="true" mt="1411842676000"/>
+    <file name="water.mp4" crc="3996662128" seo="true" mt="1411835766000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="museutils.js" crc="340535759" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>pricemob:phone>index:tablet>index:tablet>price:index:price"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>pricemob:tablet>price:price"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>pricemob:phone>partnermob:phone>otzivy:tablet>index:index:contact:about:price:partnerpc:otziv"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="require.js" crc="7928878" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index:tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl:index:contact:about:price:partnerpc:otziv"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u21452.php" crc="4090417913" ref="phone>index"/>
+    <file name="form-u22283.php" crc="3854877332" ref="tablet>index"/>
+    <file name="form-u11404.php" crc="94307305" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:contact:about:price:partnerpc:otziv"/>
+  </folder>
+  <folder name="images">
+    <file name="pcrepair-u13782.png" crc="126214849" ref="phone>pricemob:phone>partnermob:phone>contact:phone>about:phone>store:phone>otzivy:phone>poligon:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>pricemob:tablet>index:index:contact:about:price:partnerpc:otziv"/>
+    <file name="call_center_pers.png" crc="101937939" ref="phone>pricemob:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricemob" alt=""/>
+    </file>
+    <file name="без названия.jpg" crc="4238143282" ref="phone>pricemob:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pricemob" alt=""/>
+    </file>
+    <file name="notebook_2-page-fr.png" crc="239880442" ref="phone>partnermob"/>
+    <file name="img_20190628_080016_517-u15091-fr.jpg" crc="391416109" ref="phone>otzivy"/>
+    <file name="photo_2020-03-05_18-40-49-u15105-fr.jpg" crc="4095019432" ref="phone>otzivy"/>
+    <file name="ynp (965)-u15098-fr.jpg" crc="227700579" ref="phone>otzivy"/>
+    <file name="шаблон-a-favicon.ico" crc="3872266634" ref="tablet>index"/>
+    <file name="pcrepair-u21985.png" crc="3974375180" ref="tablet>index:tablet>price:tablet>partnerpl:tablet>contactpl:tablet>about:tablet>otzivypl"/>
+    <file name="bg_header-page-fr.png" crc="253004648" ref="index:contact:about:price:otziv"/>
+    <file name="pcrepair-u374.png" crc="147135270" ref="index:contact:about:price:partnerpc:otziv"/>
+    <file name="notebook_2-page-fr2.png" crc="308097583" ref="partnerpc"/>
+    <file name="notebook_2-page-fr3.png" crc="3801693174" ref="partnerpc"/>
+    <file name="notebook_2-page-fr4.png" crc="279902868" ref="partnerpc"/>
+    <file name="3075-1.jpg" crc="3998398152" ref="otziv">
+      <caption webpage="otziv" alt=""/>
+    </file>
+    <file name="img_20190628_080016_517.jpg" crc="4146924646" ref="otziv">
+      <caption webpage="otziv" alt=""/>
+      <caption webpage="otziv" alt=""/>
+      <caption webpage="otziv" alt=""/>
+    </file>
+    <file name="ynp (965).jpg" crc="4062711947" ref="otziv">
+      <caption webpage="otziv" alt=""/>
+      <caption webpage="otziv" alt=""/>
+      <caption webpage="otziv" alt=""/>
+    </file>
+    <file name="photo_2020-03-05_18-40-49.jpg" crc="311472302" ref="otziv">
+      <caption webpage="otziv" alt=""/>
+      <caption webpage="otziv" alt=""/>
+      <caption webpage="otziv" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_______-a.css" crc="344410872" ref="tablet>price:tablet>partnerpl:tablet>index:tablet>about:tablet>otzivypl:tablet>contactpl"/>
+      <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="tablet>price:tablet>partnerpl:tablet>index:tablet>about:tablet>otzivypl:tablet>contactpl"/>
+      <file name="price.css" crc="147601617" ref="tablet>price"/>
+      <file name="partnerpl.css" crc="3806712704" ref="tablet>partnerpl"/>
+      <file name="index.css" crc="492842735" ref="tablet>index"/>
+      <file name="about.css" crc="215551344" ref="tablet>about"/>
+      <file name="otzivypl.css" crc="3786019343" ref="tablet>otzivypl"/>
+      <file name="nomq_otzivypl.css" crc="3824530138" ref="tablet>otzivypl"/>
+      <file name="contactpl.css" crc="3854890552" ref="tablet>contactpl"/>
+    </folder>
+    <file name="index.html" crc="4288412531" seo="true" mt="1588801117065" redirect="true"/>
+    <file name="price.html" crc="57524699" seo="true" mt="1588801108112" redirect="true"/>
+    <file name="partnerpl.html" crc="3812170736" seo="true" mt="1588801071365" redirect="true"/>
+    <file name="contactpl.html" crc="3770903720" seo="true" mt="1588801054227" redirect="true"/>
+    <file name="about.html" crc="217388170" seo="true" mt="1588801007250" redirect="true"/>
+    <file name="otzivypl.html" crc="188688419" seo="true" mt="1588801874430" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="3978408075" ref="phone>contact:phone>about:phone>partnermob:phone>otzivy:phone>index:phone>poligon:phone>pricemob:phone>store"/>
+      <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="phone>contact:phone>about:phone>partnermob:phone>otzivy:phone>index:phone>poligon:phone>pricemob:phone>store"/>
+      <file name="contact.css" crc="3816353866" ref="phone>contact"/>
+      <file name="about.css" crc="3864237511" ref="phone>about"/>
+      <file name="partnermob.css" crc="4071628223" ref="phone>partnermob"/>
+      <file name="otzivy.css" crc="3912370488" ref="phone>otzivy"/>
+      <file name="iefonts_otzivy.css" crc="58648048" ref="phone>otzivy"/>
+      <file name="index.css" crc="37328613" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="poligon.css" crc="297543361" ref="phone>poligon"/>
+      <file name="pricemob.css" crc="3821942827" ref="phone>pricemob"/>
+      <file name="store.css" crc="4045366967" ref="phone>store"/>
+    </folder>
+    <file name="pricemob.html" crc="4273424398" seo="true" mt="1589038620321" redirect="true"/>
+    <file name="partnermob.html" crc="165619046" seo="true" mt="1589038620319" redirect="true"/>
+    <file name="contact.html" crc="282761728" seo="true" mt="1589038620319" redirect="true"/>
+    <file name="about.html" crc="4044258971" seo="true" mt="1589038620319" redirect="true"/>
+    <file name="store.html" crc="364945279" seo="true" mt="1589038620319" redirect="true"/>
+    <file name="otzivy.html" crc="3928098486" seo="true" mt="1589038620319" redirect="true"/>
+    <file name="poligon.html" crc="47623440" seo="true" mt="1589038620319" redirect="true"/>
+    <file name="index.html" crc="4066707450" seo="true" mt="1589038620319" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="230820512" seo="true" mt="1588791317095" redirect="true"/>
+  <file name="contact.html" crc="453702408" seo="true" mt="1588801488581" redirect="true"/>
+  <file name="about.html" crc="264207739" seo="true" mt="1588764962190" redirect="true"/>
+  <file name="price.html" crc="4287346503" seo="true" mt="1588791312603" redirect="true"/>
+  <file name="partnerpc.html" crc="4211281405" seo="true" mt="1588764962190" redirect="true"/>
+  <file name="otziv.html" crc="233383590" seo="true" mt="1588764962190" redirect="true"/>
+</manifest>
